@@ -1,0 +1,27 @@
+{"intents": [
+    {"tag": "salam",
+     "patterns": ["Hai", "Hi", "Halo", "Apa Kabar", "Selamat Pagi", "Selamat Siang", "Selamat Malam", "Salam", "Ping", "P"],
+     "responses": ["Halo!", "Hai", "Halo, ada yang bisa saya bantu?", "Halo selamat datang", "Hai Kawan"]
+    },
+    {"tag": "bye",
+     "patterns": ["Dadah", "Selamat Tinggal", "Dah", "Daah", "Semoga harimu menyenangkan", "Sampai Jumpa Lagi", "Ok bye", "Sampai di sini saja", "Ya sudah", "Selesai"],
+     "responses": ["Sampai jumpa, Tuan!", "Baik, saya selalu ada untuk anda Tuan!", "Semoga hari anda menyenangkan!", "Jika anda butuh bantuan lagi, saya siap membantu!"]
+    },
+    {"tag": "nama",
+     "patterns": ["nama kamu siapa?", "lu siapa?", "siapa sih lo?", "lu sape ?", "nama lo sape dah ?", "nama?"],
+     "responses": ["Namaku JARVIS, salam kenal kak!", "Halo, aku JARVIS!", "Kenalin, aku JARVIS!"]
+    },
+    {"tag": "pekerjaan",
+     "patterns": ["lu ngapain?", "pekerjaan kamu apa?", "lu kerja apa?", "tugas kamu apa?", "tugas lo ngapain?", "kamu diciptakan untuk apa?", "kamu dibuat untuk apa?"],
+     "responses": ["Aku membantu anda, Tuan. Untuk melakukan pekerjaan sehari-hari", "Tugasku jadi asisten pribadi untukmu, Tuan!."]
+    },
+    {"tag": "tanya",
+    "patterns": ["aku mau nanya", "apa mau bertanya", "boleh aku bertanya", "aku penasaran", "aku ingin tahu", "aku kepo"],
+    "responses": ["Ya, Tuan!. Saya akan menjawab sesuai pengetahuan", "apa tu?", "apa itu?", "Ya, Tuan!. Saya akan memberi tahu anda!", "Silakan"]
+    },
+    {"tag": "kemampuan",
+     "patterns": ["kamu bisa apa?", "apa yang bisa anda lakukan?", "kamu bisa ngapain aja?", "lo bisa ngapain?", "apa kemampuan lo?"],
+     "responses": ["Saya bisa membuat, menghapus, menyalin, membuka, dan menutup file serta aplikasi. Untuk anda!", "Saya bisa mencarikan informasi tentang sesuatu kepada anda!"]
+    }
+]
+}
